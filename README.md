@@ -1,6 +1,6 @@
 # ayemaqu_summertime
 
-![Cat-icon](assets/cat.jpg)
+<img src="assets/cat.jpg" alt="Cat-icon" width="200"/>
 
 
 * [About me](#about-me) 
